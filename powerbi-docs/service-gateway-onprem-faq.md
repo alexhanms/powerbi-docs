@@ -18,7 +18,7 @@ LocalizationGroup: Gateways
 [!INCLUDE [gateway-onprem-faq-shared-include](./includes/gateway-onprem-faq-shared-include.md)]
 
 ## Analysis Services
-**Question:** Can I use msdmpump.dll to create custom effective username mappings for Analysis Services?  
+**Question:** Can I use msmdpump.dll to create custom effective username mappings for Analysis Services?  
 **Answer:** No. This is not supported at this time.
 
 **Question:** Can I use the gateway to connect to a multidimensional (OLAP) instance.  
